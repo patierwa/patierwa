@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://patierwa.github.io/sitemap.xml
